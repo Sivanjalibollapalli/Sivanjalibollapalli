@@ -30,6 +30,7 @@ I'm an ambitious Bachelor of Technology student with a strong foundation in comp
 - Microsoft Azure Fundamentals
 - Ethical Hacker
 - Google Cybersecurity Certificate
+- service now global certification certified system adminstrator
 
 ### 🌱 Always Learning
 I'm committed to continuous learning and staying up-to-date with the latest technologies. Currently exploring advanced topics in cybersecurity and cloud computing.
