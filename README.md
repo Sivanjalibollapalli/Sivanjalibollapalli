@@ -34,6 +34,7 @@ I'm committed to continuous learning and staying up-to-date with the latest tech
 
 ### 🤝 Let's Connect!
 - 📧 Email: sivanjalibollapalli@gmail.com
-- 💼 LinkedIn: [Sivanjali Bollapalli](https://www.linkedin.com/in/sivanjali-bollapalli)
+- 💼 LinkedIn: [Sivanjali Bollapalli]www.linkedin.com/in/sivanjalibollapalli8639
+
 
 I'm always open to collaborating on exciting projects or discussing new opportunities in the tech world. Feel free to reach out!
